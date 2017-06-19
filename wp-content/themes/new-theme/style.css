@@ -1,0 +1,24 @@
+
+header{
+  width: 600px;
+  margin:auto;
+}
+
+.head a {
+  font-size: 32px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.title {
+  background-color:grey;
+}
+
+.menu ul li {
+  float: left;
+  list-style: none;
+  margin-right:15px;
+  text-align: center;
+}
